@@ -1,0 +1,16 @@
+name: SC_project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - scipy
+  - matplotlib
+  - numpy
+  - scanpy
+  - python
+  - pandas
+  - ipykernel
+  - leidenalg
+  - tqdm
+  - jupyter
+  - ipywidgets
